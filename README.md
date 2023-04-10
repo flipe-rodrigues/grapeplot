@@ -1,6 +1,10 @@
 # grapeplot
  MATLAB function for creating scatter plots that resemble bunches of grapes.
  ```
+m = 3e3;
+x = randn(m,1);
+y = randn(m,1);
+
  % default scatter
 scatter(sps(1),x,y,...
     'parent',sps(1));
