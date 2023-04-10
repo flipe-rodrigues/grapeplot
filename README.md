@@ -1,5 +1,5 @@
 # grapeplot
- MATLAB function for creating scatter plots that resemble bunches of grapes (see example below).
+ MATLAB function for creating scatter plots that resemble bunches of grapes (example below).
  ```matlab
 % generate data
 m = 3e3;
