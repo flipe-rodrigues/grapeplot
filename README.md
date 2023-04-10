@@ -1,4 +1,3 @@
 # grapeplot
  MATLAB function for creating scatter plots that resemble bunches of grapes.
-
-![image](https://user-images.githubusercontent.com/20165837/230923861-afb7117f-8003-4de0-8d32-1aad5ad0acf8.png)
+![demo](https://user-images.githubusercontent.com/20165837/230926688-cb823e76-c207-4f37-941d-c22eb6f64f7a.png)
