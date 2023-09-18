@@ -65,4 +65,4 @@ function h = grapeplot(x,y,params)
     
     % reset the "next plot" property to its original value
     set(params.parent,'nextplot',nextplotopt);
-    end
+end
